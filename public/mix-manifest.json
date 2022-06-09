@@ -2,5 +2,6 @@
     "/resources/js/app/header.js": "/resources/js/app/header.js",
     "/resources/js/app/footer.js": "/resources/js/app/footer.js",
     "/resources/css/app/footer.css": "/resources/css/app/footer.css",
-    "/resources/css/app/header.css": "/resources/css/app/header.css"
+    "/resources/css/app/header.css": "/resources/css/app/header.css",
+    "/resources/css/app/main.css": "/resources/css/app/main.css"
 }

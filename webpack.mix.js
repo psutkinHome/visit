@@ -12,6 +12,7 @@ mix.disableNotifications()
  |
  */
 
+mix.sass('resources/sass/main.scss', 'public/resources/css/app');
 mix.sass('resources/sass/header.scss', 'public/resources/css/app');
 mix.sass('resources/sass/footer.scss', 'public/resources/css/app');
 mix.js('resources/js/header.js', 'public/resources/js/app');
