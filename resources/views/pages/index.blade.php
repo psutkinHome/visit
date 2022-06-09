@@ -8,8 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    
 
-    @extends('footer')
+
 </body>
 </html>
