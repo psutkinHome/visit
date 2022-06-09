@@ -12,5 +12,5 @@ mix.disableNotifications()
  |
  */
 
-mix.sass('resources/sass/app.scss', 'public/css/app');
-mix.js('resources/js/*.js', 'public/resources/js/app');
+mix.sass('resources/sass/*/*.scss', 'public/resources/css/app');
+mix.js('resources/js/*/*.js', 'public/resources/js/app');
