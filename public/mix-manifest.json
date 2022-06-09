@@ -1,4 +1,6 @@
 {
-    "/resources/js/app/app.js": "/resources/js/app/app.js",
-    "/resources/css/app/app.css": "/resources/css/app/app.css"
+    "/resources/js/app/header.js": "/resources/js/app/header.js",
+    "/resources/js/app/footer.js": "/resources/js/app/footer.js",
+    "/resources/css/app/footer.css": "/resources/css/app/footer.css",
+    "/resources/css/app/header.css": "/resources/css/app/header.css"
 }
